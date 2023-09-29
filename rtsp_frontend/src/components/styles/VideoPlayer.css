@@ -1,0 +1,21 @@
+.video-player-container {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  width: 80%;
+  max-width: 640px; /* Adjust to the size of your video */
+}
+
+.video-input-container {
+  margin-bottom: 10px;
+}
+
+.video-wrapper {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  border-radius: 5px;
+}
